@@ -1,0 +1,55 @@
+Week-1 
+- Team formation
+- Selected project we are going to work on
+- set up jira
+
+Week-2
+- Started proposal
+- worked on user stories
+- sprints 
+
+Week-3 
+- further refined user stories 
+- uploaded user stories to jira
+- finalized report and submitted it. 
+
+week-4
+- divided tasks amongst teamates for sprint 1
+- start working login, logout and register part
+- discussed my approach with team 
+
+week-5 
+- held a demo presentation with team. 
+- everyone discussed what they have done so far. 
+- update jira and demostrated register, login and logout part in the tutorial presentation
+
+week-6 
+- worked on retrospective report A.
+- recommended ways in which we can improve our future progress 
+- submitted retrospective report. 
+
+Week-7 
+- start working on the next sprint. 
+- worked on the chat novel feature. 
+
+week-8
+- complete chat and showed it to team. 
+- they recommended to convert it into react framwork. 
+- completed react chat and did tutorial demonstration 
+- worked on retrospective report b .
+- submitted retrospective report b. 
+
+
+week-9
+- I started working on making game inside the chat. 
+- completed the game. 
+- started working on report.
+- wrote background, architect, functionalites and user manual 
+- completed report. 
+
+week-10
+- submitted report 
+- submitted project
+- prepared final demonstration. 
+
+

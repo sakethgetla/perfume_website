@@ -1,0 +1,22 @@
+Woody
+Floral
+Arabian
+Spicy
+Oriental
+Fruity
+Fresh
+Citrus
+Vanilla
+Musk
+Oriental, Floral
+Sweet Aromatic
+Aromatic
+Woody, Sweet
+Aromatic,Citrus
+Clean
+Woody, Musky
+Floral and Oriental
+Jasmine
+Woody And Spicy
+Rose, Floral
+Sandalwood

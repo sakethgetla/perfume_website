@@ -1,0 +1,14 @@
+drop table admins;
+drop table messages;
+drop table counters;
+drop table comments;
+drop table bookmarks;
+drop table ratings;
+drop table org_users;
+drop table organisations;
+--drop table room_members;
+--drop table room_messages;
+--drop table rooms;
+drop table likes;
+drop table dislikes;
+drop table users;

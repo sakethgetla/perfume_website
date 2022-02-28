@@ -1,0 +1,45 @@
+week 1
+group of six formed
+
+week 2
+One member left the team, team of five formed
+
+week 3
+3 group meetings this week on topic of user stories and sprint design
+uploading user stories to Jira
+
+
+week 4
+sprint objectives established
+start researching on postgreSQL
+start working on sprint 1
+
+
+week5
+learning react framework
+demo
+
+week 6
+integration
+meeting on retrospective
+
+week7
+meeting tuesday  what to do next, database backend
+meeting wednesday sprint 2
+working on US123
+
+week8
+meeting on tuesday merging
+working collabaratively with saketh, jordan, Babar on likes/dislikes/comments
+Implementing Axios request
+wednesday prepare for demo
+updated jira page for the demo
+attended retrospective meeting on saturday
+merged my working brach 'like-dislike-comment" into master
+
+week9
+fixing axios request issues
+user stories assigned almost done
+working on final report
+Merging branch 'styles' 'merge_ts_with_backend_new' into master.
+testing features after merge.

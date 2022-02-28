@@ -1,0 +1,72 @@
+Week 1:
+- Team formation
+- Selected project we are going to work on
+- Set up jira
+
+Week 2:
+- Started proposal
+- Made user stories
+- Created Sprints 
+
+Week 3:
+- Designed + did flowchart for report
+- Finalised report with team + submitted it. 
+
+Week 4:
+- Divided tasks amongst teamates for Sprint 1
+- Started working on:
+    - Home Page (loading perfumes)
+    - Adding Perfumes
+- Discussed results with team 
+- Managed this via React State, not backend
+
+
+Week 5:
+- Created some Routes
+    - /
+    - /userSettings
+    - /addPerfume
+- Demo Presentation
+    - Presented Routes, adding perfumes + home Page
+
+Week 6:
+- Worked on retrospective report A.
+- Recommended ways in which we can improve our future progress 
+- Submitted retrospective report. 
+- Studied some backend technologies - Elixir + PostgreSQL
+
+Week 7:
+- Sprint 2
+- Added Bookmarks Feature (managed via React state again)
+    - can add bookmarks
+    - can remove bookmarks
+
+Week 8:
+- Shared progress with team
+- Worked on retrospective report B.
+- Submitted retrospective report B. 
+- Worked on edit bookmarks page (edit name, brand, tags, delete perfume)
+- Merging w/ Seth's backend.
+
+Week 9:
+- Features to add:
+    - Viewing other user's page showing details (their name, likes, dislikes, comments, bookmarks)
+    - User Settings
+        - Viewing your likes
+        - Viewing your dislikes
+        - Viewing your bookmarks (ability to remove bookmark)
+        - Edit Perfumes (edit name, edit brand, edit tags, delete perfume)
+    - Routes for all these features (/user/:id, userSettings/likes, userSettings/dislikes, userSettings/bookmarks, userSettings/editPerfumes)
+- Merging w/ Seth's backend.
+- Finished styling all my features:
+    - Home Page
+    - Perfume component
+    - User Settings (likes, dislikes, bookmarks, edit perfumes)
+    - Add Perfume
+    - User Page
+- Writing report
+    - Wrote user manual for all my features
+
+Week 10:
+- Discuss w/ team + merging + finalising report
+

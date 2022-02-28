@@ -1,0 +1,29 @@
+** read from csv
+sqlite> .mode csv
+sqlite> .import [path] [table]
+
+
+
+|------------------------+---------+-----------------------------------------------------------------------------------------------------------------------|
+| column                 | type    | Info                                                                                                                |
+|------------------------+---------+-----------------------------------------------------------------------------------------------------------------------|
+| **brand**              | object  | Indicates to the perfume's boutique of each perfume                                                                   |
+| **name**               | object  | Indicates to the name of each perfume                                                                                 |
+| **department**         | object  | represent the gender for each perfume, feminine perfume for women, the masculine perfume for men, unisex and for kids |
+| **old_price**          | float64 | Indicates to the price of each perfume before sale                                                                    |
+| **new_price**          | float64 | Indicates to the price of each perfume after sale                                                                     |
+| **ml**                 | int64   | Indicates to the capacity of a perfume bottle                                                                         |
+| **concentration**      | object  | Indicates to the Fragrancef concentrations or strengths                                                               |
+| **scents**             | object  | Indicates to the represents the general scents for each perfume                                                       |
+| **base_note**          | object  | Indicates to the base notes that bring depth and solidity to a perfume.                                               |
+| **middle_note**        | object  | Indicates to the  the main theme of a perfume.                                                                        |
+| **item_rating**        | float64 | Indicates to all the vote  of each certain perfume.                                                                   |
+| **seller**             | object  | Indicates to the seller  of each certain perfume.                                                                     |
+| **seller_rating**      | float64 | Indicates to all the vote  of each certain seller.                                                                    |
+| **num_seller_ratings** | object  | Indicates the number of people they voted for each certain seller, k means thousand                                   |
+|------------------------+---------+-----------------------------------------------------------------------------------------------------------------------|
+
+NOTE:
+
+
+,brand,name,old_price,new_price,ml,concentration,department,scents,base_note,middle_note,item_rating,seller,seller_rating,num_seller_ratings

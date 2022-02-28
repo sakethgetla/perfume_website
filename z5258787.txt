@@ -1,0 +1,54 @@
+Week-1
+- Team formation
+- I made jira
+- Seleted project we are going to work on
+
+Week-2
+- Worked on proposal 
+- got started on user stories 
+- Did the architecture part of the proposal
+
+Week-3 
+- Uploaded my user stories to jira 
+- further refined report and user stories 
+
+Week-4 
+- Seleted my part for sprint 1. 
+- started working on the backend and setting up database. 
+- started working on postgreSQL for the database
+
+Week-5 
+- attended a demo presentation. 
+- demonstrated my work at tutorial. 
+
+Week-6
+- database wasnt working the way i wanted. 
+- Explored SQLite and wrote schemas.
+- Started working on Routes. 
+
+Week-7
+- completed database. 
+- completed routes.
+- showed them to team members
+- started working on next sprint. 
+
+Week-8
+- completed Search functionality. 
+- assisted ali with chat novel feature. 
+- demoed my user stories in the tutorial. 
+- started working on third sprint. 
+
+Week-9 
+- assisted team with integration, merging and fixing code. 
+- started working on recommedations 
+- helped Ali with chat-game integration and merging. 
+- worked on styling component
+- merged my work. 
+- Assited with report. 
+
+Week-10 
+- Fixed minor bugs. 
+- worked on presentation demo. 
+
+
+

@@ -1,0 +1,26 @@
+### noon is the lifestyle shopping destination for the region, by the region.
+
+With the largest online selection of leading brands in categories such as electronics, fashion, health & beauty, fragrances, grocery, baby products and homeware, noon is the one stop shopping destination for every one. For this project, I choose the noon website, data was collected fron perfume section for  female, male and kids departments.
+
+
+### noon_perfume Data Dictionary: 
+
+|Feature|Type|Description|
+|---|---|---|
+|**brand**|object|Indicates to the perfume's boutique of each perfume | 
+|**name**|object|Indicates to the name of each perfume| 
+|**department**|object|represent the gender for each perfume, feminine perfume for women, the masculine perfume for men, unisex and for kids| 
+|**old_price**|float64|Indicates to the price of each perfume before sale| 
+|**new_price**|float64|Indicates to the price of each perfume after sale| 
+|**ml**|int64|Indicates to the capacity of a perfume bottle| 
+|**concentration**|object|Indicates to the Fragrancef concentrations or strengths| 
+|**scents**|object|Indicates to the represents the general scents for each perfume| 
+|**base_note**|object|Indicates to the base notes that bring depth and solidity to a perfume.| 
+|**middle_note**|object|Indicates to the  the main theme of a perfume.| 
+|**item_rating**|float64|Indicates to all the vote  of each certain perfume.|
+|**seller**|object|Indicates to the seller  of each certain perfume.| 
+|**seller_rating**|float64|Indicates to all the vote  of each certain seller.| 
+|**num_seller_ratings**|object|Indicates the number of people they voted for each certain seller, k means thousand| 
+
+NOTE:
+ - if the price before and after sale doesnt change that means (No dicount for this item)

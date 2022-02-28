@@ -1,0 +1,28 @@
+Diary
+
+Week 1
+Groups formed and possible project topics was discussed.
+
+Week 2
+Scent Searcher Project was selected.
+
+Week 3
+Project Proposal report started, proposal parts allocated - I will be doing the background and competitive analysis
+
+Week 4
+Sprint 1 started - User stories selected on Jira, features I will implement: Profile page and user details
+
+Week 5
+Sprint 1 finished. Progressive Demo held, plannign for future sprint discussed.
+
+Week 6
+Flexibility week. Retrospective meeting held, problems and possible solutions were discussed.
+
+Week 7
+Sprint 2 started. Features I will implement: Merging profiles with server authentication. ETA: 1 week
+
+Week 8
+Work on merging frontend and backend authentication continues to elude me. I learnt a lot about passport and expressjs and react hooks.
+
+Week 9
+Styling work begun. Styling for Header and Navbar finished, individual pages to be completed on the weekend/ other members responsible for pages.
